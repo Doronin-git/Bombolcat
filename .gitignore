@@ -2,4 +2,6 @@
 # Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
 ################################################################################
 
-/ConsoleApp1/obj/Debug
+/hada-p2/obj/
+.vs
+
